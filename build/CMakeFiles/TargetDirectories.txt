@@ -1,0 +1,3 @@
+/home/sunzhixian/simpleserver/build/CMakeFiles/server.dir
+/home/sunzhixian/simpleserver/build/CMakeFiles/edit_cache.dir
+/home/sunzhixian/simpleserver/build/CMakeFiles/rebuild_cache.dir
